@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Swann Polydor"
+  },
+  "bugs": {
+    "url": "https://github.com/soueuls/react-native-slider-picker/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "react-native-css-vh-vw": "^1.0.4"
+  },
+  "deprecated": false,
+  "description": "Custom range slide picker for React Native.",
+  "homepage": "https://github.com/soueuls/react-native-slider-picker#readme",
+  "keywords": [
+    "react native",
+    "component",
+    "slider",
+    "slide picker",
+    "slider picker",
+    "range picker",
+    "range input"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "@soueuls/react-native-slider-picker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soueuls/react-native-slider-picker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.3"
+}
